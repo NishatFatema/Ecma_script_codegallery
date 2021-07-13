@@ -32,3 +32,4 @@ function getDataConst(){
     }
 }
 getDataConst()
+// diff var ,let , const

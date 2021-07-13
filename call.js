@@ -4,3 +4,4 @@ function display(){
 display();
 display();
 display();
+//  output will be 3 time ecma script
